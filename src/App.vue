@@ -30,12 +30,6 @@ export default {
   data() {
     return {
       activeTab: 0
-      // people: [
-      //   { name: "Luke", id: 1 },
-      //   { name: "Darth", id: 4 },
-      //   { name: "Leia", id: 5 },
-      //   { name: "Yoda", id: 0 }
-      // ]
     }
   },
   subscriptions() {
